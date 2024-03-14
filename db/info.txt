@@ -1,0 +1,6 @@
+
+create a database call Newsportal taking help from w3 schools
+
+
+
+create a table call user
