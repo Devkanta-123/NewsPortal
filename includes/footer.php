@@ -7,14 +7,10 @@
                         <div class="headding-border"></div>
                         <a class="tag" href="#" title="">FASHION</a>
                         <a class="tag" href="#" title="">CREATIVE</a>
-                        <a class="tag" href="#" title="">CMS</a>
                         <a class="tag" href="#" title="">ENTERTAINMENT</a>
                         <a class="tag" href="#" title="">TECHNOLOGY</a>
-                        <a class="tag" href="#" title="">COLLAGE</a>
                         <a class="tag" href="#" title="">CULTURE</a>
-                        <a class="tag" href="#" title="">BLOG</a>
                         <a class="tag" href="#" title="">BUSINESS</a>
-                        <a class="tag" href="#" title="">MUSIC</a>
                         <div class="newsletter-inner">
                             <!-- newsletter -->
                             <h3 class="category-headding ">NEWSLETTER</h3>
