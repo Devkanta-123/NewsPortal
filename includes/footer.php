@@ -5,7 +5,6 @@
                     <div class="footer-box">
                         <h3 class="category-headding">POPULAR TAGS</h3>
                         <div class="headding-border"></div>
-                        <a class="tag" href="#" title="">EDUCATION</a>
                         <a class="tag" href="#" title="">FASHION</a>
                         <a class="tag" href="#" title="">CREATIVE</a>
                         <a class="tag" href="#" title="">CMS</a>
